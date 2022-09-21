@@ -1,5 +1,5 @@
 # Maze
-Maze creator
+Maze Generator Using pygames
 
 
 ## Maze Creator Demo
