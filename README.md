@@ -1,7 +1,7 @@
 # Maze
 ## What is this?
 
-Simple Maze Generator Using pygames
+Maze Generator Using pygames
 
 ## What I Learned
 * In-Depth Analysis of the Depth First Search Algorithm
