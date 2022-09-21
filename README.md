@@ -3,9 +3,6 @@
 
 Simple Maze Generator Using pygames
 
-### How Was it Made?
-This Was Made using python
-
 ## What I Learned
 * Depth First Search Algorithm
 
