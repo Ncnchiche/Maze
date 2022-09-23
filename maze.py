@@ -68,7 +68,7 @@ class Cell:
             neighbors.append(left)
         return choice(neighbors) if neighbors else False
 
-#
+
 def remove_walls(current, next):
     dx = current.x - next.x
     if dx == 1:
@@ -104,7 +104,7 @@ while True:
 
     #Define next cell as the result from check neighbor
 	next_cell = current_cell.check_neighbors()
-    #if not false value then it becom
+    #if not false value
 	if next_cell:
 		next_cell.visited = True
 		remove_walls(current_cell, next_cell)
